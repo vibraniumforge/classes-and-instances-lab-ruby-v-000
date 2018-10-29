@@ -3,5 +3,5 @@ class Dog
 end
 
 fido=Dog.new
-rover=Dog.new
-spot=Dog.new
+snoopy=Dog.new
+lassie=Dog.new
